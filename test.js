@@ -1,0 +1,25 @@
+/* var d = new Date();
+		nlapiLogExecution('error', 'log', 'd= '+d);
+		var a_wht = nlapiCreateRecord('customrecord_custom_gl_wh_billpayment');
+		a_wht.setFieldValue('custrecord_cgl_bp_account' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_account', i));
+		// a_wht.setFieldValue('custrecord_cgl_bp_vendor_select' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_vendor_select', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_vendor_name' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_vendor_name', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_branch' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_branch', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_individual' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_individual', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_pnd_category' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_pnd_category', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_pnd_name' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_pnd_name', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_wht_name_select' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_wht_name_select', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_tax_amount' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_tax_amount', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_tax_rate' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_tax_rate', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_tax_base' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_tax_base', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_tax_rate' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_tax_rate', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_vat_no' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_vat_no', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_vendor_address' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_vendor_address', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_wh_date' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_wh_date', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_wh_payer' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_wh_payer', i));
+		a_wht.setFieldValue('custrecord_wht_income_code' , nlapiGetLineItemValue(wh_listid, 'custrecord_wht_income_code', i));
+		a_wht.setFieldValue('custrecord_cgl_bp_wh_no' , nlapiGetLineItemValue(wh_listid, 'custrecord_cgl_bp_wh_no', i));
+		a_wht.setFieldValue('custrecord_filing_no' , nlapiGetLineItemValue(wh_listid, 'custrecord_filing_no', i));
+		var copy_ = nlapiSubmitRecord(a_wht, false, false);
+		var d = new Date();
+		nlapiLogExecution('error', 'log', 'd= '+d); */
